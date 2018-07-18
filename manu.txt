@@ -1,0 +1,6 @@
+age
+name
+mom
+jiju
+hshs
+shs
